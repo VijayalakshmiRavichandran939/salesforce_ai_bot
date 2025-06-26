@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+google-generativeai
+fastapi
+uvicorn
+simple-salesforce
+chromadb
+PyPDF2
+python-dotenv
